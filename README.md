@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Njange</h1>
 <h3 align="center">A passionate developer</h3>
 
-- ⚡ Fun fact **I am Batman**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/njange2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njange2" height="30" width="40" /></a>
