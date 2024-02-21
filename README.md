@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njange&label=Profile%20views&color=0e75b6&style=flat" alt="njange" /> </p>
 
 
-- ⚡ Fun fact **I am Batman**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
