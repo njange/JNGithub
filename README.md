@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njange&label=Profile%20views&color=0e75b6&style=flat" alt="njange" /> </p>
 
-<p align="left"> <a href="https://twitter.com/njange2" target="blank"><img src="https://img.shields.io/twitter/follow/njange2?logo=twitter&style=for-the-badge" alt="njange2" /></a> </p>
 
 - ⚡ Fun fact **I am Batman**
 
